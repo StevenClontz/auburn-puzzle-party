@@ -1,0 +1,45 @@
+---
+layout: page
+description: "The puzzle community of Auburn, Alabama"
+hide-breadcrumbs: true
+---
+
+{% for post in paginator.posts %}
+  <div class="post-preview">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+          <h2 class="post-title">            {{ post.title }}
+          </h2>
+          {% if post.subtitle %}
+            <h3 class="post-subtitle">
+                {{ post.subtitle }}
+            </h3>
+          {% endif %}
+      </a>
+      <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+  </div>
+  <hr>
+  {% if paginator.page == 1 and forloop.first and false %}
+    <!-- Remove above false and replace with Twitter widget if one is created -->
+    <p class="text-center twitter-widget">
+      <a class="twitter-timeline" href="https://twitter.com/StevenXClontz" data-widget-id="718235164875300864" data-tweet-limit="3">Tweets by @StevenXClontz</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </p>
+    <hr>
+  {% endif %}
+{% endfor %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}

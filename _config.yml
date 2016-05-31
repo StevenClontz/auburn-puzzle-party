@@ -1,0 +1,19 @@
+# Site settings
+title: Auburn Puzzle Party
+short-title: APP
+header-img: "img/home-bg.jpg"
+email: steven.clontz+app@gmail.com
+description: "The puzzle community of Auburn, Alabama"
+baseurl: ""
+url: "http://app.clontz.org"
+twitter_username:
+github_username: StevenClontz/auburn-puzzle-party
+facebook_username:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:categories/:year/:month/:day/:title/
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate]
