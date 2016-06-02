@@ -35,7 +35,7 @@ casual **puzzle potlucks** and multiday **puzzlehunts**.
 10. **Puzzle Potluck 5**
     * 2015 January 31
 11. **Auburn Puzzle Party 11**
-    * [/parties/app11/](/parties/app11/)
+    * Website: [/parties/app11/](/parties/app11/)
     * "Potluck VI"
     * 2016 July 30
 
