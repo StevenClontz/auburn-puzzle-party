@@ -3,7 +3,7 @@ layout:     page
 title: "APP11: Potluck VI"
 description: "The sixth Auburn Puzzle Party potluck"
 header-img: "img/potluck-bg.jpg"
-permalink: "parties/app11"
+permalink: /parties/app11/
 ---
 
 Our last [puzzle potluck][0]
