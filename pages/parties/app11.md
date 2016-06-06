@@ -143,9 +143,10 @@ puzzles, so I recommend that you register early if you want to play
 
 * **Designer Teams**  
   *(must design 1 or 2 puzzles before 2016 July 23)*
-    * Eric Harshbarger (2 puzzles)
-    * Zachary Sarver (2 puzzles)
+    * Eric Harshbarger and Hope Landrum (2 puzzles)
+    * Zachary Sarver and Andrew Owens (2 puzzles)
     * Robert Ford and Tim Hardwick (2 puzzles)
+    * Cathlena Martin and Stephen Bennett (1 puzzle)
 * **Solver Teams**
     * Ashley McCrary and Dave McCrary
 
@@ -163,7 +164,7 @@ in this competition. You can view the results of that survey [here][1].
 \*On calling it APP11...
 Potluck VI will be the eleventh major Auburn puzzle community event,
 not counting [Eric's Puzzle Parties][epp], so I thought I'd go with it.
-Besides, word on the street tells me
+Also, word on the street tells me
 there's going to be a full-fledged puzzlehunt called Auburn Puzzle
 Party 12!
 (I won't be organizing, but I bet you'll be hearing more about that soon.)
