@@ -14,7 +14,8 @@ ran over a year ago. It's about time.
 ## Overview
 
 **Auburn Puzzle Party 11: Potluck VI** will be run on
-**Saturday, 2016 July 30**, at a specific time and venue TBD.\*
+**Saturday, 2016 July 30**, from **10am to 4pm** at the
+**Auburn University Student Center**.
 [**Steven Clontz**](http://clontz.org) will be the organizer.
 
 We will adopt a potluck format modified from the first four potlucks
@@ -87,6 +88,10 @@ by another team**.
   station 1 from the highest numbered station) before the organizer
   starts the next 30 minutes.
 
+* Occasional breaks will be held, including a lunch break. Lunch is provided
+  by our sponsor, [Auburn Escape Zones][aez], so you just need to show up
+  with your puzzles, paper, and writing utensils!
+
 * At the end of competition, the organizer will collect solution sheets from
   all teams to grade.
 
@@ -149,6 +154,19 @@ puzzles, so I recommend that you register early if you want to play
     * Cathlena Martin and Stephen Bennett (1 puzzle)
 * **Solver Teams**
     * Ashley McCrary and Dave McCrary
+
+## Thanks to our Sponsor
+
+[Auburn Escape Zones][aez] has graciously offered to sponsor APP11 by
+providing lunch for all players! AEZ opened their doors in May, and have
+expressed a desire to support the Auburn puzzle community.
+Please return the favor by visiting them
+at [auburnescapezones.com][aez]. If you've already tried them out,
+you can also support them by leaving a review of your experience
+at [TripAdvisor][aeztrip] and other review sites.
+
+[aez]: http://auburnescapezones.com/
+[aeztrip]: https://www.tripadvisor.com/Attraction_Review-g29006-d10086047-Reviews-Auburn_Escape_Zones-Auburn_Alabama.html
 
 ## Survey Results
 
