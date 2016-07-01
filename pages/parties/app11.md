@@ -24,6 +24,14 @@ participate as **Designer Teams** or **Solver Teams**. Designer Teams will
 provide the puzzles, but **every team will get to solve every puzzle brought
 by another team**.
 
+## New to Auburn Puzzle Party?
+
+Here's some quick details: we still have room for a few Solver Teams, no
+experience necessary! The event is free, and pizza will be provided by
+Escape Zones. If you like escape rooms, you'll like this. Contact
+the organizer at [@StevenXClontz](http://twitter.com/StevenXClontz)
+or <steven.clontz@gmail.com> to learn more.
+
 ## Rules
 
 * Teams are composed of one or two people.
