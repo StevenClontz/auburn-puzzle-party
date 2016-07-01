@@ -153,7 +153,7 @@ puzzles, so I recommend that you register early if you want to play
     * Robert Ford and Tim Hardwick (2 puzzles)
     * Cathlena Martin and Stephen Bennett (1 puzzle)
 * **Solver Teams**
-    * Ashley McCrary and Dave McCrary
+    * *(none)*
 
 ## Thanks to our Sponsor
 
