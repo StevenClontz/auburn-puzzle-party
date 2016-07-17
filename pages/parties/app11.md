@@ -159,7 +159,7 @@ puzzles, so I recommend that you register early if you want to play
     * Eric Harshbarger and Hope Landrum (2 puzzles)
     * Zachary Sarver and Andrew Owens (2 puzzles)
     * Robert Ford and Tim Hardwick (2 puzzles)
-    * Cathlena Martin and Stephen Bennett (1 puzzle)
+    * Cathlena Martin and Stephen Bennett (2 puzzle)
 * **Solver Teams**
     * *(none)*
 
