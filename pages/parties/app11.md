@@ -150,18 +150,18 @@ your teammate (if any), and the number of puzzles you'll be contributing.
 We can only support as many Solver Teams as we have Designer Teams who contribute
 two puzzles, but we will waitlist any interested Solver Teams in the meantime.
 
-**Registration will close on 2016 July 16.** Space will be limited to 10 total
-puzzles, so I recommend that you register early if you want to play
-(you can add a teammate at a later date).
+**Registration is closed to Deisgner Teams.** Contact the organizer ASAP
+if you want to join us as a Solver Team!
 
 * **Designer Teams**  
   *(must design 1 or 2 puzzles before 2016 July 23)*
     * Eric Harshbarger and Hope Landrum (2 puzzles)
     * Zachary Sarver and Andrew Owens (2 puzzles)
-    * Robert Ford and Tim Hardwick (2 puzzles)
+    * Robert Ford and Tim Hardwick (1 puzzle)
     * Cathlena Martin and Stephen Bennett (2 puzzle)
 * **Solver Teams**
-    * *(none)*
+    * Mark Brady and Tracy Cobbs
+    * Paul Daniel and ???
 
 ## Thanks to our Sponsor
 
