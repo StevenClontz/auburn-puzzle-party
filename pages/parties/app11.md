@@ -6,6 +6,50 @@ header-img: "img/potluck-bg.jpg"
 permalink: /parties/app11/
 ---
 
+## Results!
+
+Thanks to everyone who participated in **Auburn Puzzle Party 11:
+Potluck VI!**. These results have been a little late in coming to
+the community website, but here we are!
+
+![sponsor](/img/app11/resized_010_trophy.jpg)
+
+Our only Solver Team **Tracy Cobbs and Mark Brady**
+(shown left-to-right) took the Solver
+Trophy by default, but also ended up receiving the overall
+Potluck Trophy as well!
+
+![sponsor](/img/app11/resized_011_trophy.jpg)
+
+New potluckers **Cathlena Martin and Stephen Bennett**
+(shown left-to-right) impressed the players and won the
+Design Trophy for most appreciated puzzle.
+
+## Thanks to Auburn Escape Zones
+
+![sponsor](/img/app11/resized_006.jpg)
+
+Thanks again to [Escape Zones][aez] for sponsoring our event by
+providing pizza, soda, and a few shirts/stickers for the players.
+
+## More Photos
+
+In addition to the below photos, all the photos taken by the organizer
+are available at this [Google Drive page](https://drive.google.com/drive/folders/0BztY6G2AjPh0SG1VSGpQc2E2d2s?usp=sharing).
+
+![photo](/img/app11/resized_001.jpg)
+![photo](/img/app11/resized_002.jpg)
+![photo](/img/app11/resized_003.jpg)
+![photo](/img/app11/resized_004.jpg)
+![photo](/img/app11/resized_005.jpg)
+![photo](/img/app11/resized_007.jpg)
+![photo](/img/app11/resized_008.jpg)
+![photo](/img/app11/resized_009.jpg)
+
+---
+
+# Event Details
+
 Our last [puzzle potluck][0]
 ran over a year ago. It's about time.
 
@@ -157,11 +201,10 @@ if you want to join us as a Solver Team!
   *(must design 1 or 2 puzzles before 2016 July 23)*
     * Eric Harshbarger and Hope Landrum (2 puzzles)
     * Zachary Sarver and Andrew Owens (2 puzzles)
-    * Robert Ford and Tim Hardwick (1 puzzle)
-    * Cathlena Martin and Stephen Bennett (2 puzzle)
+    * Robert Ford and Tim Hardwick (2 puzzles)
+    * Cathlena Martin and Stephen Bennett (2 puzzles)
 * **Solver Teams**
     * Mark Brady and Tracy Cobbs
-    * Paul Daniel and ???
 
 ## Thanks to our Sponsor
 
